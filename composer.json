@@ -1,5 +1,5 @@
 {
-    "name": "dmdnkv/faker-someimage-provider",
+    "name": "dmdnkv/faker-someimage-providers",
     "description": "Fake image providers for Faker PHP library (fzaninotto/Faker). Implemented providers: LoremFlickr (http://loremflickr.com), DummyImage (http://dummyimage.com)",
     "type": "library",
     "require": {
