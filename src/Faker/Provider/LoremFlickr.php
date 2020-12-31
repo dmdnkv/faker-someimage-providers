@@ -35,7 +35,7 @@ class LoremFlickr extends Base
     /**
      * @var string
      */
-    protected $baseUrl = 'http://loremflickr.com';
+    protected $baseUrl = 'https://loremflickr.com';
     /**
      * @var bool|int
      */

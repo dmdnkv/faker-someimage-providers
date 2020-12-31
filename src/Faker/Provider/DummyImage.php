@@ -29,7 +29,7 @@ class DummyImage extends Base implements SomeImage
     /**
      * @var string
      */
-    protected $baseUrl = 'http://dummyimage.com';
+    protected $baseUrl = 'https://dummyimage.com';
     /**
      * @var bool|int
      */
